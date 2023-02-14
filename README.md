@@ -22,7 +22,6 @@ Plataforma de aprendizado **<https://www.tinkercad.com/>**
 
 <details><summary>14/02</summary>
 
-- Criamos a [lista de pendências]()
-- 
+- Criamos a [lista de pendências](https://github.com/NiltonSilva10/PIBIC-EM/blob/main/pendencias.md)
 
 </details>
