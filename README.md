@@ -24,6 +24,6 @@ Plataforma de aprendizado **<https://www.tinkercad.com/>**
 
 - Criamos a [lista de pendências](https://github.com/NiltonSilva10/PIBIC-EM/blob/main/pendencias.md)
 - Testamos potenciômetro físico (teste falho)
-- Fizemos a junção do potenciômetro com o LCD
+- Fizemos a [junção do potenciômetro com o LCD](https://github.com/NiltonSilva10/PIBIC-EM/tree/main/C%C3%B3digos/14.02)
 
 </details>
