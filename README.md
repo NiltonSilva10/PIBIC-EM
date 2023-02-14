@@ -22,6 +22,7 @@ Plataforma de aprendizado **<https://www.tinkercad.com/>**
 
 <details><summary>14/02</summary>
 
-- Ainda nada...
+- Criamos a [lista de pendências]()
+- 
 
 </details>
