@@ -37,3 +37,9 @@ Plataforma de aprendizado **<https://www.tinkercad.com/>**
 - [x] Rafael
 
 </details>
+
+<details><summary>16/02</summary>
+
+### Não houve reunião (ponto facultativo)
+
+</details>
