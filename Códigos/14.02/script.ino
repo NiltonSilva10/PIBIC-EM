@@ -5,8 +5,6 @@
 Adafruit_7segment led_display1 = Adafruit_7segment();
 
 int sensorValue = 0;
-
-// Usamos aqui a distância de forma estática
 double distanceM = 5;
 
 void setup()
@@ -18,12 +16,22 @@ void setup()
 
 void loop()
 {
-  // read the input on analog pin 0:
+  // Lê a entrada do potenciômetro no pino analógico 0:
   sensorValue = analogRead(A0);
-  // print out the value you read:
+ 
+  // Mostra na tela o valor da leitura:
   //Serial.println(sensorValue);
-  led_display1.println(sensorValue);
   
-  led_display1.writeDisplay();
-  delay(100); // Wait for 100 millisecond(s)
+  if (sensorValue > 170 and sensorValue < 511)
+  {
+    led_display1.println(sensorValue - 170);
+    led_display1.writeDisplay();
+  }
+  else
+  {
+    led_display1.println('-0'); // mostra '----' no display
+    led_display1.writeDisplay();
+  }        
+  
+  delay(100); // Espera 100 milisegundos
 }
