@@ -1,7 +1,7 @@
 # PIBIC-EM
 ### Estudo de um equipamento para marcação das curvas de nível
 
-### [Lista de pendências](https://github.com/NiltonSilva10/PIBIC-EM/blob/main/pendencias.md)
+### [Lista de pendências](https://github.com/NiltonSilva10/PIBIC-EM/blob/main/pendencias.md#lista-de-pend%C3%AAncias)
 
 ### Plataforma de aprendizado **<https://www.tinkercad.com/>**
 
