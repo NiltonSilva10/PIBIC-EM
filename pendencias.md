@@ -3,6 +3,7 @@
 ## Lista de componentes 
 
 - [ ] 2 Sensores luminosos
+- [ ] 1 Sensor de distância (a laser)
 - [x] Laser 
 - [x] Potenciômetro 
 - [x] 2 Protolabor (Protoboard)
