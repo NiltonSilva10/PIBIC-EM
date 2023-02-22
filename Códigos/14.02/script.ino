@@ -6,12 +6,14 @@ Adafruit_7segment led_display1 = Adafruit_7segment();
 
 int sensorValue = 0;
 
+// Usamos aqui a distância de forma estática
+double distanceM = 5;
+
 void setup()
 {
   pinMode(A0, INPUT);
   Serial.begin(9600);
-  led_display1.begin(112);
-  pinMode(A1, INPUT);
+  led_display1.begin(112);  
 }
 
 void loop()
