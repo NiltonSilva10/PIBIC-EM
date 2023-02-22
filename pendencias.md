@@ -12,12 +12,13 @@
 
 ## Hardware
 
-1. Testar cada componente de forma individual, 
-2. Reduzir/eliminar chasis do laser
-3. Integrar o potenciômetro ao laser 
-4. Adicionar o regulador do Nível (lastro) a plataforma 
-5. Adicionar display LCD ao projeto
-6. Adicionar _Buzzer_ ao sensor de luz
+- [ ] Integrar LCD + potenciômetro ao Arduino
+- [ ] Testar cada componente de forma individual (Falta LCD) 
+- [ ] Reduzir/eliminar chasis do laser
+- [ ] Integrar o potenciômetro ao laser 
+- [ ] Adicionar o regulador do Nível (lastro) a plataforma 
+- [ ] Adicionar display LCD ao projeto
+- [ ] Adicionar _Buzzer_ ao sensor de luz
 
  ## Software
  
