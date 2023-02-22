@@ -1,7 +1,9 @@
 # PIBIC-EM
 ### Estudo de um equipamento para marcação das curvas de nível
 
-Plataforma de aprendizado **<https://www.tinkercad.com/>**
+### [Lista de pendências](https://github.com/NiltonSilva10/PIBIC-EM/blob/main/pendencias.md)
+
+### Plataforma de aprendizado **<https://www.tinkercad.com/>**
 
 ## Participantes do projeto
 - [Prof. Dr. Nilton Silva](https://github.com/NiltonSilva10/)
