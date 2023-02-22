@@ -1,4 +1,4 @@
-# Lista de Pendências [**VOLTAR**](https://github.com/NiltonSilva10/PIBIC-EM#readme)
+# Lista de Pendências
 
 ## Lista de componentes 
 
@@ -31,3 +31,5 @@
  6. [ ] [Encontrar o valor do cateto oposto através de _teta_](https://www.todamateria.com.br/seno-cosseno-e-tangente/)
  7. [ ] Medir a distância da hipotenusa com o sensor
  8. [ ] Implantar a distância medida no cálculo
+
+### [**VOLTAR**](https://github.com/NiltonSilva10/PIBIC-EM#readme)
