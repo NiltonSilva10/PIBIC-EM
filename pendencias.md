@@ -5,7 +5,7 @@
 - [ ] 2 Sensores luminosos
 - [ ] 1 Sensor de distância (a laser)
 - [x] Laser 
-- [x] Potenciômetro 
+- [ ] 2 Potenciômetros (falta 1)
 - [x] 2 Protolabor (Protoboard)
 - [x] 2 Arduinos UNO
 - [x] Buzzer 
@@ -13,12 +13,12 @@
 
 ## Hardware
 
-- [ ] Integrar LCD + potenciômetro ao Arduino
-- [ ] Testar cada componente de forma individual (Falta LCD) 
+- [ ] Integrar LCD + potenciômetro no Arduino
+- [x] Testar cada componente de forma individual 
 - [ ] Reduzir/eliminar chasis do laser
 - [ ] Integrar o potenciômetro ao laser 
 - [ ] Adicionar o regulador do Nível (lastro) a plataforma 
-- [ ] Adicionar display LCD ao projeto
+- [x] Adicionar display LCD ao projeto
 - [ ] Adicionar _Buzzer_ ao sensor de luz
 
  ## Software
@@ -28,8 +28,7 @@
  3. [x] Fazer a junção do potenciômetro com LCD
  4. [x] Transformar a leitura do potenciômetro em ângulo
  5. [x] Limitar a área de captação do ângulo no potenciômetro a 90°
- 6. [ ] [Encontrar o valor do cateto oposto através de _teta_](https://www.todamateria.com.br/seno-cosseno-e-tangente/)
- 7. [ ] Medir a distância da hipotenusa com o sensor
- 8. [ ] Implantar a distância medida no cálculo
+ 6. [ ] Encontrar o valor da hipotenusa através de _teta_ e altura da inclinação (cateto oposto)
+ 7. [ ] ~~Medir a distância da hipotenusa com o sensor~~
 
 ### [**VOLTAR**](https://github.com/NiltonSilva10/PIBIC-EM#readme)
