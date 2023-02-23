@@ -45,3 +45,12 @@
 ### Não houve reunião (ponto facultativo)
 
 </details>
+
+<details><summary>23/02</summary>
+
+- 
+
+### Presentes
+- [ ] Fernando
+- [x] Thiago
+- [x] Rafael
