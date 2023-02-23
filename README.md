@@ -60,7 +60,7 @@
 
   </details>
   
-  <details><summary>28/02</summary>
+<details><summary>28/02</summary>
 
 - A realizar
 
@@ -69,4 +69,4 @@
 - [ ] Thiago
 - [ ] Rafael
 
-  </details>
+</details>
