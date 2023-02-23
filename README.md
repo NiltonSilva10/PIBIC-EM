@@ -48,7 +48,7 @@
 
 <details><summary>23/02</summary>
 
-- Descobrimos o cálculo para encontrar o valor do potenciômetro
+- Sistematizamos o [cálculo](https://docs.google.com/presentation/d/13dmwgcf3KiTFc8evJHiGE-kWDIL_Q_ypIhyBCJH68XU/edit?usp=sharing) para encontrar o valor do potenciômetro
 - Transferimos o cálculo para um algoritmo de C++ no Arduino
 
 ### Presentes
