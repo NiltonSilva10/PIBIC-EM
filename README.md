@@ -6,10 +6,7 @@
 ### Plataforma de aprendizado **<https://www.tinkercad.com/>**
 
 ## Participantes do projeto
-> [Prof. Dr. Nilton Silva](https://github.com/NiltonSilva10/)
-> [Thiago Sousa](https://github.com/thiagosousa81)
-> [Fernando Santos](https://github.com/aglomera)
-> Rafael
+> [Prof. Dr. Nilton Silva](https://github.com/NiltonSilva10/)<br>[Thiago Sousa](https://github.com/thiagosousa81)<br>[Fernando Santos](https://github.com/aglomera)<br>Rafael
 
 
 ## Diário de bordo
