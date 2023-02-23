@@ -46,11 +46,10 @@
 <details><summary>23/02</summary>
 
 - Sistematizamos o [cálculo](https://docs.google.com/presentation/d/13dmwgcf3KiTFc8evJHiGE-kWDIL_Q_ypIhyBCJH68XU/edit?usp=sharing) para encontrar o valor do potenciômetro
-- Transferimos o cálculo para um algoritmo de C++ no Arduino
 - Testamos os 3 potenciômetros com o Arduino IDE
   - Apenas 1 funciona corretamente
-- Testamos o display LED (funcionando corretamente com a [biblioteca](https://github.com/NiltonSilva10/PIBIC-EM/tree/main/C%C3%B3digos/23.02/TM1637))
-- Ver link <https://www.instructables.com/Tutorial-How-to-4-Digit-Display-Interface-With-Ard/>
+- Testamos o display LED 
+  - (Funcionou com sua devida [biblioteca](https://github.com/NiltonSilva10/PIBIC-EM/tree/main/C%C3%B3digos/23.02/TM1637) disponível em <https://www.instructables.com/Tutorial-How-to-4-Digit-Display-Interface-With-Ard/>
 
 ### Presentes
 - [ ] Fernando (Apresentar justificativa médica, caso contrátrio, substituir por estar com faltas acima do permitido)
@@ -61,7 +60,8 @@
   
 <details><summary>28/02</summary>
 
-- A realizar
+- Ligar o potenciômetro com o display e fazer mostrar o ângulo *Teta* (o)
+- Converter o [cálculo](https://docs.google.com/presentation/d/13dmwgcf3KiTFc8evJHiGE-kWDIL_Q_ypIhyBCJH68XU/edit?usp=sharing) para C++
 
 ### Presentes
 - [ ] Fernando
