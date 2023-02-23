@@ -1,3 +1,3 @@
 ### Lista de tarefas [Fernando](https://github.com/aglomera)
 
-- Relatório parcial
+- [ ] Concluir **Relatório parcial**
