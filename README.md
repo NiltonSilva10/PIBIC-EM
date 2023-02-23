@@ -23,7 +23,7 @@
 ### Presentes
 - [x] Fernando
 - [x] Thiago
-- [ ] Rafael
+- [ ] Rafael (faltou por problemas no pé)
 
 </details>
 
