@@ -48,7 +48,8 @@
 
 <details><summary>23/02</summary>
 
-- 
+- Descobrimos o cálculo para encontrar o valor do potenciômetro
+- Transferimos o cálculo para um algoritmo de C++ no Arduino
 
 ### Presentes
 - [ ] Fernando
