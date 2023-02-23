@@ -1,5 +1,5 @@
 # PIBIC-EM
-### Estudo de um equipamento para marcação das curvas de nível
+### Estudo de um equipamento para marcação das curvas de nível em terrenos inclinados
 
 ### [Lista de pendências](https://github.com/NiltonSilva10/PIBIC-EM/blob/main/pendencias.md#lista-de-pend%C3%AAncias)
 
