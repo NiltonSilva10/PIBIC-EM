@@ -50,8 +50,23 @@
 
 - Sistematizamos o [cálculo](https://docs.google.com/presentation/d/13dmwgcf3KiTFc8evJHiGE-kWDIL_Q_ypIhyBCJH68XU/edit?usp=sharing) para encontrar o valor do potenciômetro
 - Transferimos o cálculo para um algoritmo de C++ no Arduino
+- Testamos os 3 potenciômetros com o Arduino IDE
+  - Apenas 1 funciona corretamente
+
+### Presentes
+- [ ] Fernando (Apresentar justificativa médica, caso contrátrio, substituir por estar com faltas acima do permitido)
+- [x] Thiago
+- [x] Rafael
+
+  </details>
+  
+  <details><summary>28/02</summary>
+
+- A realizar
 
 ### Presentes
 - [ ] Fernando
-- [x] Thiago
-- [x] Rafael
+- [ ] Thiago
+- [ ] Rafael
+
+  </details>
