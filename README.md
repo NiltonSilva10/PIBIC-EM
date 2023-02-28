@@ -64,8 +64,8 @@
 - Converter o [cálculo](https://docs.google.com/presentation/d/13dmwgcf3KiTFc8evJHiGE-kWDIL_Q_ypIhyBCJH68XU/edit?usp=sharing) para C++
 
 ### Presentes
-- [ ] Fernando
-- [ ] Thiago
-- [ ] Rafael
+- [x] Fernando
+- [x] Thiago
+- [x] Rafael
 
 </details>
