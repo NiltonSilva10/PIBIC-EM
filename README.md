@@ -61,8 +61,8 @@
 <details><summary>28/02</summary>
 
 - Recriamos o projeto em outro [link](https://www.tinkercad.com/things/d3NrLzh35l8-tremendous-allis-kup/editel?sharecode=jPVT5Noy59zd0QazSsN2Iq-wXeIR0A180T2tborTh-w)
- - Implementamos a função de pegar o ângulo do potenciômetro
- - Colocamos um potenciômetro para coletar a metragem do Cateto Oposto
+  - Implementamos a função de pegar o ângulo do potenciômetro
+  - Colocamos um potenciômetro para coletar a metragem do Cateto Oposto
 - Ligar o potenciômetro com o display e fazer mostrar o ângulo *Teta* (o)
 - Converter o [cálculo](https://docs.google.com/presentation/d/13dmwgcf3KiTFc8evJHiGE-kWDIL_Q_ypIhyBCJH68XU/edit?usp=sharing) para C++
 
