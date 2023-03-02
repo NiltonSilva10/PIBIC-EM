@@ -72,3 +72,14 @@
 - [x] Rafael
 
 </details>
+
+<details><summary>02/03</summary>
+
+- 
+
+### Presentes
+- [x] Fernando
+- [x] Thiago
+- [ ] Rafael
+
+</details>
