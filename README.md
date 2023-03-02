@@ -75,7 +75,8 @@
 
 <details><summary>02/03</summary>
 
-- 
+- Fizemos a definição de Radianos e Graus
+- Teste do Buzzer
 
 ### Presentes
 - [x] Fernando
