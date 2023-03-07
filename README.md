@@ -87,7 +87,7 @@
 
 <details><summary>07/03</summary>
 
-- ...
+- Continuamos estudando os cálculos no [projeto]()
 
 ### Presentes
 - [x] Fernando
