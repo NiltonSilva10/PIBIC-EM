@@ -1,4 +1,4 @@
-// https://www.tinkercad.com/things/d3NrLzh35l8-tremendous-allis-kup/editel?sharecode=jPVT5Noy59zd0QazSsN2Iq-wXeIR0A180T2tborTh-w&sharecode=-cNcHjHvYkwHilsNqeRjui4FqlYnWg1ZMQKddAvEa9k
+// https://www.tinkercad.com/things/d3NrLzh35l8-tremendous-allis-kup/editel?sharecode=-cNcHjHvYkwHilsNqeRjui4FqlYnWg1ZMQKddAvEa9k
 #include "Adafruit_LEDBackpack.h"
 
 Adafruit_7segment led_display1 = Adafruit_7segment(), led_display2 = Adafruit_7segment(), led_display3 = Adafruit_7segment();
