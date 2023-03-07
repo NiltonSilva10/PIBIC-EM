@@ -87,6 +87,7 @@
 <details><summary>07/03</summary>
 
 - Continuamos estudando os cálculos no [projeto](https://www.tinkercad.com/things/d3NrLzh35l8-tremendous-allis-kup/editel?sharecode=-cNcHjHvYkwHilsNqeRjui4FqlYnWg1ZMQKddAvEa9k)
+- Fizemos o backup da pasta *Arduino*
 - ~Ligar o potenciômetro com o display e fazer mostrar o ângulo *Teta* (o)~
 
 ### Presentes
