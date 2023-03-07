@@ -6,7 +6,7 @@
 ### Plataforma de aprendizado **<https://www.tinkercad.com/>**
 
 ## Participantes do projeto
-> [Prof. Dr. Nilton Silva](https://github.com/NiltonSilva10/)<br>[Thiago Sousa](https://github.com/thiagosousa81)<br>[Fernando Junior](https://github.com/aglomera)<br>[Rafael dos Santos](https://github.com/Rafae2007/)
+> #### [Prof. Dr. Nilton Silva](https://github.com/NiltonSilva10/)<br>[Thiago Sousa](https://github.com/thiagosousa81)<br>[Fernando Junior](https://github.com/aglomera)<br>[Rafael dos Santos](https://github.com/Rafae2007/)</h3>
 
 
 ## Diário de bordo
@@ -87,7 +87,7 @@
 
 <details><summary>07/03</summary>
 
-- Continuamos estudando os cálculos no [projeto]()
+- Continuamos estudando os cálculos no [projeto](https://www.tinkercad.com/things/d3NrLzh35l8-tremendous-allis-kup/editel?sharecode=-cNcHjHvYkwHilsNqeRjui4FqlYnWg1ZMQKddAvEa9k)
 
 ### Presentes
 - [x] Fernando
