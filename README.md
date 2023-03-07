@@ -60,7 +60,7 @@
   
 <details><summary>28/02</summary>
 
-- Recriamos o projeto em outro [link](https://www.tinkercad.com/things/d3NrLzh35l8-tremendous-allis-kup/editel?sharecode=jPVT5Noy59zd0QazSsN2Iq-wXeIR0A180T2tborTh-w)
+- Recriamos o projeto em outro [link](https://www.tinkercad.com/things/d3NrLzh35l8-tremendous-allis-kup/editel?sharecode=-cNcHjHvYkwHilsNqeRjui4FqlYnWg1ZMQKddAvEa9k)
   - Implementamos a função de pegar o ângulo do potenciômetro
   - Colocamos um potenciômetro para coletar a metragem do Cateto Oposto
 - ~Ligar o potenciômetro com o display e fazer mostrar o ângulo *Teta* (o)~
@@ -92,6 +92,6 @@
 ### Presentes
 - [ ] Fernando
 - [x] Thiago
-- [ ] Rafael
+- [x] Rafael
 
 </details>
