@@ -90,7 +90,7 @@
 - ...
 
 ### Presentes
-- [ ] Fernando
+- [x] Fernando
 - [x] Thiago
 - [x] Rafael
 
