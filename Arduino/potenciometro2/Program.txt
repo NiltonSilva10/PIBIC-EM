@@ -1,0 +1,85 @@
+GraphicsWindow.BackgroundColor = "black"
+
+'GraphicsWindow.FillRectangle(10, 5, 50, 10) 'Top
+
+'GraphicsWindow.FillRectangle(5, 10, 10, 50) 'top <-
+'GraphicsWindow.FillRectangle(55, 10, 10, 50) 'top ->
+
+'GraphicsWindow.FillRectangle(10, 55, 50, 10) ' Center
+
+'GraphicsWindow.FillRectangle(55, 55, 10, 50) 'bottom ->
+'GraphicsWindow.FillRectangle(5, 55, 10, 50) 'bottom <-
+
+'GraphicsWindow.FillRectangle(10, 100, 50, 10) 'Bottom
+
+For a = 0 To 9999
+    For i = 0 To 9
+        GraphicsWindow.Clear()        
+        If i = 0 Then
+            GraphicsWindow.FillRectangle(10, 5, 50, 10) 'Top
+
+            GraphicsWindow.FillRectangle(5, 10, 10, 50) 'top <-
+            GraphicsWindow.FillRectangle(55, 10, 10, 50) 'top ->                        
+
+            GraphicsWindow.FillRectangle(55, 55, 10, 50) 'bottom ->
+            GraphicsWindow.FillRectangle(5, 55, 10, 50) 'bottom <-
+
+            GraphicsWindow.FillRectangle(10, 100, 50, 10) 'Bottom
+        ElseIf i = 1 Then
+            GraphicsWindow.FillRectangle(55, 10, 10, 50) 'top ->                        
+            GraphicsWindow.FillRectangle(55, 55, 10, 50) 'bottom ->
+        ElseIf i = 2 Then
+            GraphicsWindow.FillRectangle(10, 5, 50, 10) 'Top
+            GraphicsWindow.FillRectangle(55, 10, 10, 50) 'top ->
+            GraphicsWindow.FillRectangle(10, 55, 50, 10) ' Center
+            GraphicsWindow.FillRectangle(5, 55, 10, 50) 'bottom <-
+            GraphicsWindow.FillRectangle(10, 100, 50, 10) 'Bottom
+        ElseIf i = 3 Then
+            GraphicsWindow.FillRectangle(10, 5, 50, 10) 'Top
+            GraphicsWindow.FillRectangle(55, 10, 10, 50) 'top ->
+            GraphicsWindow.FillRectangle(10, 55, 50, 10) ' Center
+            GraphicsWindow.FillRectangle(55, 55, 10, 50) 'bottom ->
+            GraphicsWindow.FillRectangle(10, 100, 50, 10) 'Bottom
+        ElseIf i = 4 Then
+            GraphicsWindow.FillRectangle(5, 10, 10, 50) 'top <-
+            GraphicsWindow.FillRectangle(55, 10, 10, 50) 'top ->
+            GraphicsWindow.FillRectangle(10, 55, 50, 10) ' Center
+            GraphicsWindow.FillRectangle(55, 55, 10, 50) 'bottom ->
+        ElseIf i = 5 Then
+            GraphicsWindow.FillRectangle(10, 5, 50, 10) 'Top
+            GraphicsWindow.FillRectangle(5, 10, 10, 50) 'top <-
+            GraphicsWindow.FillRectangle(10, 55, 50, 10) ' Center
+            GraphicsWindow.FillRectangle(55, 55, 10, 50) 'bottom ->
+            GraphicsWindow.FillRectangle(10, 100, 50, 10) 'Bottom
+        ElseIf i = 6 Then
+            GraphicsWindow.FillRectangle(10, 5, 50, 10) 'Top
+            GraphicsWindow.FillRectangle(5, 10, 10, 50) 'top <-
+            GraphicsWindow.FillRectangle(10, 55, 50, 10) ' Center
+            GraphicsWindow.FillRectangle(55, 55, 10, 50) 'bottom ->
+            GraphicsWindow.FillRectangle(5, 55, 10, 50) 'bottom <-
+            GraphicsWindow.FillRectangle(10, 100, 50, 10) 'Bottom
+        ElseIf i = 7 Then
+            GraphicsWindow.FillRectangle(10, 5, 50, 10) 'Top
+            GraphicsWindow.FillRectangle(55, 10, 10, 50) 'top ->
+            GraphicsWindow.FillRectangle(55, 55, 10, 50) 'bottom ->
+        ElseIf i = 8 Then
+            GraphicsWindow.FillRectangle(10, 5, 50, 10) 'Top
+            GraphicsWindow.FillRectangle(5, 10, 10, 50) 'top <-
+            GraphicsWindow.FillRectangle(55, 10, 10, 50) 'top ->
+            GraphicsWindow.FillRectangle(10, 55, 50, 10) ' Center
+            GraphicsWindow.FillRectangle(55, 55, 10, 50) 'bottom ->
+            GraphicsWindow.FillRectangle(5, 55, 10, 50) 'bottom <-
+            GraphicsWindow.FillRectangle(10, 100, 50, 10) 'Bottom
+        ElseIf i = 9 Then
+            GraphicsWindow.FillRectangle(10, 5, 50, 10) 'Top
+            GraphicsWindow.FillRectangle(5, 10, 10, 50) 'top <-
+            GraphicsWindow.FillRectangle(55, 10, 10, 50) 'top ->
+            GraphicsWindow.FillRectangle(10, 55, 50, 10) ' Center
+            GraphicsWindow.FillRectangle(55, 55, 10, 50) 'bottom ->
+            GraphicsWindow.FillRectangle(10, 100, 50, 10) 'Bottom
+        EndIf
+        
+        Program.Delay(500)
+    EndFor
+EndFor
+
