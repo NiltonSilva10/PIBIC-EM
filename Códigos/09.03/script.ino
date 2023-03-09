@@ -29,7 +29,7 @@ void MostraAngulo()  //Método para ler o valor do potenciometro e transformar e
   }
   else
   {
-    display.showNumberDec(404, false);
+    display.showNumberDec(0, false);
   }
 }
   
