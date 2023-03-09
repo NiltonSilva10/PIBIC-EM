@@ -1,4 +1,5 @@
 //Programa: Modulo TM1637 com Arduino e Potenciômetro 1K
+// https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-fotoresistor-sensor-ldr-5mm
 
 #include <Arduino.h>
 #include <TM1637Display.h>
