@@ -98,14 +98,15 @@
 
 <details><summary>09/03</summary>
 
-- Ligar o potenciômetro com o display e fazer mostrar o ângulo *Teta* (o)
-- Testar o Sensor LDR
-- Fazer o teste de bancada
+- Ligar o potenciômetro com o display 
+- Fazer o display mostrar o ângulo *Teta* (o) do ângulo no potenciômetro
+- ~Testar o Sensor LDR~
+- ~Fazer o teste de bancada~
 
 ### Presentes
-- [ ] Fernando
-- [ ] Thiago
-- [ ] Rafael
+- [x] Fernando
+- [x] Thiago
+- [x] Rafael
 
 </details>
 
