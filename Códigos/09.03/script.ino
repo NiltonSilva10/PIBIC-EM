@@ -1,5 +1,6 @@
 //Programa: Modulo TM1637 com Arduino e Potenciômetro 1K
 // Link de referência https://www.arduinoecia.com.br/como-usar-modulo-tm1637-com-arduino/
+// Manual do <TM1637> https://robojax.com/learn/arduino/robojax-TM1637_display_manual.pdf
 
 #include <Arduino.h>
 #include <TM1637Display.h>
