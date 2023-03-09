@@ -100,8 +100,7 @@
 
 - Ligar o potenciômetro com o display 
 - Fazer o display mostrar o ângulo *Teta* (o) do ângulo no potenciômetro
-- ~Testar o Sensor LDR~
-- ~Fazer o teste de bancada~
+- Testar o Sensor LDR
 
 ### Presentes
 - [x] Fernando
