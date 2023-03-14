@@ -111,7 +111,8 @@
 
 <details><summary>14/03</summary>
 
-- 
+- Continuamos trabalhando no desenvolvimento do receptor do **laser**
+- Fizemos o teste prático
 
 ### Presentes
 - [x] Fernando
