@@ -24,6 +24,6 @@ void loop()
   }
   
   // O resultado sempre saiu diferente
-  delay(1000);
+  delay(500);
 }
 
