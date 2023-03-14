@@ -109,4 +109,13 @@
 
 </details>
 
+<details><summary>14/03</summary>
 
+- 
+
+### Presentes
+- [x] Fernando
+- [x] Thiago
+- [x] Rafael
+
+</details>
