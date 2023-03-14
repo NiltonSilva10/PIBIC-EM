@@ -4,6 +4,6 @@
 | - | - | - | - | - |
 | + Laser | | Variação constante | | + Sol | 
 
-<details>
+<details><summary>*</summary>
  Dados extraídos com base nos corredores do prédio CETEC da UFRB 
 </details>
